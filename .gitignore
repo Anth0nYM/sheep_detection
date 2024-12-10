@@ -1,0 +1,6 @@
+.venv/
+mypy.ini
+ajustments.py
+record.py
+video.py
+samples/
