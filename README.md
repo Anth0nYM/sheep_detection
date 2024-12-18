@@ -22,7 +22,7 @@ This project applies the pipeline to videos of sheep, where the camera is positi
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/sheep-detection.git
+    git clone https://github.com/Anth0nYM/sheep-detection.git
     cd sheep-detection
     ```
 
@@ -35,3 +35,4 @@ This project applies the pipeline to videos of sheep, where the camera is positi
 ## Scripts
 
 - ``conversion.py``: Converts your videos .mov to .mp4
+- ``crop.py``: Crop videos
