@@ -70,7 +70,7 @@ class Cropper:
 
 
 if __name__ == '__main__':
-    INPUT_PATH = 'samples/sheeps/mp4/sheep2.mp4'
+    INPUT_PATH = 'samples/sheeps/mp4/2.mp4'
     COORDINATES = [
         (0, 1050),  # Top-left corner of the lower left screen
         (1680, 2100)  # Bottom-right corner of the lower left screen

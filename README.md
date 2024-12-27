@@ -34,5 +34,5 @@ This project applies the pipeline to videos of sheep, where the camera is positi
 
 ## Scripts
 
-- ``conversion.py``: Converts your videos .mov to .mp4
 - ``crop.py``: Crop videos
+- ``video.py``: Detect movement from a static scenario
